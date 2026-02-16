@@ -1,0 +1,39 @@
+{
+  "id": "5fbb7593-19f9-497c-9280-b3f0a6e1e0d4",
+  "name": "Advanced Purchasing Cycle Management for Agic",
+  "publisher": "Agic Technology S.r.l.",
+  "version": "1.0.0.5",
+  "brief": "Module for customizations of the purchase cycle",
+  "description": "Additional module for customizations of the purchase cycle from purchase request to invoicing.",
+  "privacyStatement": "https://CicloPassivo.com/help/",
+  "EULA": "https://CicloPassivo.com/help/",
+  "help": "https://CicloPassivo.com/help/",
+  "url":  "https://CicloPassivo.com/help/",
+  "logo": "logo.png",
+  "features": ["TranslationFile"],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "dependencies": [
+    {
+      "id": "4e8f00ee-cc61-46c1-a9c3-b70d47f0d6ac",
+      "name": "Agic Extension & OAuth2.0 Management for Slamp",
+      "publisher": "Agic Technology S.r.l.",
+      "version": "1.0.0.0"
+    }
+  ],
+  "idRanges": [
+    {
+      "from":90200,
+      "to": 90259
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false,
+    "applyToDevExtension": true
+  },
+  "contextSensitiveHelpUrl": "https://CicloPassivo.com/help/",
+  "runtime":"10.0"  
+}
