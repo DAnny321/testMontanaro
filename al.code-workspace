@@ -6,6 +6,9 @@
     {
       "path": "Slamp.CicloPassivo"
     },
+        {
+      "path": "Slamp.CustomerExtensionManagement"
+    },
     {
       "path": ".AL-Go"
     }

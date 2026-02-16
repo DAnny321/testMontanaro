@@ -1,0 +1,34 @@
+{
+  "id": "4e8f00ee-cc61-46c1-a9c3-b70d47f0d6ac",
+  "name": "Agic Extension & OAuth2.0 Management for Slamp",
+  "publisher": "Agic Technology S.r.l.",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "Agic Extension & OAuth2.0 Management",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 78150,
+      "to": 78159
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false,
+    "applyToDevExtension": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
